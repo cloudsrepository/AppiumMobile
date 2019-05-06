@@ -4,7 +4,7 @@
 
         • I used the Data Driven Approach by using the TestNG framwork.
     
-# The project Sturcture is as follows:
+# The project sturcture is as follows:
 
         # Under the folder (AppiumMobileTest/src/test/java) ==> 
            • 'base' package consist the 'TestBase' class which is using the setting the DesiredCapabilities, Porperties files, Driver etc. and extend this 'TestBase' class in all the above mentioned TestCases Classes.
@@ -41,7 +41,7 @@
         • Instatiate Appium Server on the following address: Host:Port = localhost:4723  (http://127.0.0.1:4723/wd/hub)
         • Attached the mobile device Moto C Plus(7.0) by using USB with my Laptop and open the Vysor
 
-# Reports will be generated inside the following folders:
+# Reports will be generated inside the following folder:
 
         • AppiumMobileTest\test-output\emailable-report.html
         • AppiumMobileTest\test-output\index.html
