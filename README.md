@@ -2,7 +2,7 @@
 
 # Functional test on Selendroid App:
 
-        • I used the Data Driven Approach by using the TestNG framwork.
+        • I used the Data Driven Approach by using the TestNG Framwork.
     
 # The project sturcture is as follows:
 
