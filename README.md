@@ -33,7 +33,7 @@
         • Install Android SDK
         • Install Android API version 7.0
         • Install Appium for Windows
-        • Install PdaNet+   
+        • Install PdaNet+  
 
 # Steps to execute the code:
 
